@@ -37,7 +37,7 @@
 "FaceID:Declare" = "";
 // - Details Sample
 "FaceID:Details:Sample" = "App unlocking";
-"FaceID:Details:Sample:Subtitle" = "Tap \"OK\" on the following popup message to give permission to use Face ID to unlock the app that's in auto-locked status.";
+"FaceID:Details:Sample:Subtitle" = "Tap \"Allow\" on the following popup message to give permission to use Face ID to unlock the app that's in auto-locked status.";
 
 // MARK: - Camera
 
@@ -46,7 +46,7 @@
 "Camera:Declare" = "We will not surreptitiously turn on the camera.";
 // - Details Sample
 "Camera:Details:Sample" = "Taking photos";
-"Camera:Details:Sample:Subtitle" = "Tap \"OK\" on the following popup message to give permission to use the Camera to take photos.";
+"Camera:Details:Sample:Subtitle" = "Tap \"Allow\" on the following popup message to give permission to use the Camera to take photos.";
 
 // MARK: - Photo Library
 
@@ -74,7 +74,7 @@
 "PhotoLibraryAddOnly:Declare" = "We will not surreptitiously scan your photos.";
 // - Details Sample
 "PhotoLibraryAddOnly:Details:Sample" = "Saving photos";
-"PhotoLibraryAddOnly:Details:Sample:Subtitle" = "Tap \"OK\" on the following popup message to give permission to save photos to the Photos album.";
+"PhotoLibraryAddOnly:Details:Sample:Subtitle" = "Tap \"Allow\" on the following popup message to give permission to save photos to the Photos album.";
 
 // MARK: - Apple Music (Media & Apple Music)
 

@@ -37,7 +37,7 @@
 "FaceID:Declare" = "";
 // - Details Sample
 "FaceID:Details:Sample" = "应用解锁";
-"FaceID:Details:Sample:Subtitle" = "在接下来的弹出框中点按“好”，以授权允许通过 Face ID 解锁自动锁屏后的应用。";
+"FaceID:Details:Sample:Subtitle" = "在接下来的弹出框中点按“允许”，以授权允许通过 Face ID 解锁自动锁屏后的应用。";
 
 // MARK: - Camera
 
@@ -46,7 +46,7 @@
 "Camera:Declare" = "我们不会偷偷地开启摄像头。";
 // - Details Sample
 "Camera:Details:Sample" = "拍摄照片";
-"Camera:Details:Sample:Subtitle" = "在接下来的弹出框中点按“好”，以授权允许使用照相机拍摄照片。";
+"Camera:Details:Sample:Subtitle" = "在接下来的弹出框中点按“允许”，以授权允许使用照相机拍摄照片。";
 
 // MARK: - Photo Library
 
@@ -74,7 +74,7 @@
 "PhotoLibraryAddOnly:Declare" = "我们不会偷偷地扫描您的任何照片、视频。";
 // - Details Sample
 "PhotoLibraryAddOnly:Details:Sample" = "另存照片";
-"PhotoLibraryAddOnly:Details:Sample:Subtitle" = "在接下来的弹出框中点按“好”，以授权允许另存照片到您设备的照片库。";
+"PhotoLibraryAddOnly:Details:Sample:Subtitle" = "在接下来的弹出框中点按“允许”，以授权允许另存照片到您设备的照片库。";
 
 // MARK: - Apple Music (Media & Apple Music)
 
